@@ -1,0 +1,173 @@
+﻿  Source.cpp
+Source.cpp(26): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+Source.cpp(549): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+Source.cpp(549): error C2146: syntax error: missing ';' before identifier 'hwnd2mat'
+Source.cpp(550): error C2143: syntax error: missing ';' before '{'
+Source.cpp(550): error C2447: '{': missing function header (old-style formal list?)
+c:\opencv\build\include\opencv2\flann\result_set.h(308): warning C4003: not enough actual parameters for macro 'max'
+c:\opencv\build\include\opencv2\flann\result_set.h(430): warning C4003: not enough actual parameters for macro 'max'
+c:\opencv\build\include\opencv2\flann\lsh_index.h(205): warning C4003: not enough actual parameters for macro 'max'
+c:\opencv\build\include\opencv2\flann\lsh_index.h(271): warning C4003: not enough actual parameters for macro 'max'
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(76): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(104): warning C4244: '*=': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(152): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(589): error C2589: '(': illegal token on right side of '::'
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(589): error C2059: syntax error: '::'
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(635): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(658): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(660): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(676): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(898): warning C4003: not enough actual parameters for macro 'max'
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(746): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(747): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(750): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(751): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(760): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(761): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(762): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(763): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(781): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(782): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(783): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(784): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(821): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(822): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(823): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(824): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(825): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(826): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(863): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(875): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(879): warning C4018: '>': signed/unsigned mismatch
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(880): warning C4018: '>': signed/unsigned mismatch
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(898): error C2589: '(': illegal token on right side of '::'
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(898): error C2059: syntax error: '::'
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(906): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(908): error C2589: '(': illegal token on right side of '::'
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(908): error C2059: syntax error: '::'
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(912): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(919): error C2589: '(': illegal token on right side of '::'
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(919): error C2059: syntax error: '::'
+c:\users\peppe\documents\visual studio 2015\projects\no_recoil_weapon_recognition\project1\yolo_v2_class.hpp(937): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+Source.cpp(652): error C2872: 'Mat': ambiguous symbol
+  Source.cpp(549): note: could be 'int Mat'
+  C:\opencv\build\include\opencv2/core/mat.hpp(805): note: or       'cv::Mat'
+Source.cpp(652): error C2146: syntax error: missing ';' before identifier 'hemlok'
+Source.cpp(652): error C2065: 'hemlok': undeclared identifier
+Source.cpp(653): error C2872: 'Mat': ambiguous symbol
+  Source.cpp(549): note: could be 'int Mat'
+  C:\opencv\build\include\opencv2/core/mat.hpp(805): note: or       'cv::Mat'
+Source.cpp(653): error C2146: syntax error: missing ';' before identifier 'alternator'
+Source.cpp(653): error C2065: 'alternator': undeclared identifier
+Source.cpp(654): error C2872: 'Mat': ambiguous symbol
+  Source.cpp(549): note: could be 'int Mat'
+  C:\opencv\build\include\opencv2/core/mat.hpp(805): note: or       'cv::Mat'
+Source.cpp(654): error C2146: syntax error: missing ';' before identifier 'flatline'
+Source.cpp(654): error C2065: 'flatline': undeclared identifier
+Source.cpp(655): error C2872: 'Mat': ambiguous symbol
+  Source.cpp(549): note: could be 'int Mat'
+  C:\opencv\build\include\opencv2/core/mat.hpp(805): note: or       'cv::Mat'
+Source.cpp(655): error C2146: syntax error: missing ';' before identifier 'havoc'
+Source.cpp(655): error C2065: 'havoc': undeclared identifier
+Source.cpp(656): error C2872: 'Mat': ambiguous symbol
+  Source.cpp(549): note: could be 'int Mat'
+  C:\opencv\build\include\opencv2/core/mat.hpp(805): note: or       'cv::Mat'
+Source.cpp(656): error C2146: syntax error: missing ';' before identifier 'lstar'
+Source.cpp(656): error C2065: 'lstar': undeclared identifier
+Source.cpp(657): error C2872: 'Mat': ambiguous symbol
+  Source.cpp(549): note: could be 'int Mat'
+  C:\opencv\build\include\opencv2/core/mat.hpp(805): note: or       'cv::Mat'
+Source.cpp(657): error C2146: syntax error: missing ';' before identifier 'prowler'
+Source.cpp(657): error C2065: 'prowler': undeclared identifier
+Source.cpp(658): error C2872: 'Mat': ambiguous symbol
+  Source.cpp(549): note: could be 'int Mat'
+  C:\opencv\build\include\opencv2/core/mat.hpp(805): note: or       'cv::Mat'
+Source.cpp(658): error C2146: syntax error: missing ';' before identifier 'r99'
+Source.cpp(658): error C2065: 'r99': undeclared identifier
+Source.cpp(659): error C2872: 'Mat': ambiguous symbol
+  Source.cpp(549): note: could be 'int Mat'
+  C:\opencv\build\include\opencv2/core/mat.hpp(805): note: or       'cv::Mat'
+Source.cpp(659): error C2146: syntax error: missing ';' before identifier 'r301'
+Source.cpp(659): error C2065: 'r301': undeclared identifier
+Source.cpp(660): error C2872: 'Mat': ambiguous symbol
+  Source.cpp(549): note: could be 'int Mat'
+  C:\opencv\build\include\opencv2/core/mat.hpp(805): note: or       'cv::Mat'
+Source.cpp(660): error C2146: syntax error: missing ';' before identifier 'spitfire'
+Source.cpp(660): error C2065: 'spitfire': undeclared identifier
+Source.cpp(661): error C2872: 'Mat': ambiguous symbol
+  Source.cpp(549): note: could be 'int Mat'
+  C:\opencv\build\include\opencv2/core/mat.hpp(805): note: or       'cv::Mat'
+Source.cpp(661): error C2146: syntax error: missing ';' before identifier 're45'
+Source.cpp(661): error C2065: 're45': undeclared identifier
+Source.cpp(662): error C2872: 'Mat': ambiguous symbol
+  Source.cpp(549): note: could be 'int Mat'
+  C:\opencv\build\include\opencv2/core/mat.hpp(805): note: or       'cv::Mat'
+Source.cpp(662): error C2146: syntax error: missing ';' before identifier 'devotion'
+Source.cpp(662): error C2065: 'devotion': undeclared identifier
+Source.cpp(663): error C2872: 'Mat': ambiguous symbol
+  Source.cpp(549): note: could be 'int Mat'
+  C:\opencv\build\include\opencv2/core/mat.hpp(805): note: or       'cv::Mat'
+Source.cpp(663): error C2146: syntax error: missing ';' before identifier 'radius'
+Source.cpp(663): error C2065: 'radius': undeclared identifier
+Source.cpp(666): error C2065: 'hemlok': undeclared identifier
+Source.cpp(666): error C3861: 'hemlok': identifier not found
+Source.cpp(667): error C2065: 'alternator': undeclared identifier
+Source.cpp(667): error C3861: 'alternator': identifier not found
+Source.cpp(668): error C2065: 'flatline': undeclared identifier
+Source.cpp(668): error C3861: 'flatline': identifier not found
+Source.cpp(669): error C2065: 'havoc': undeclared identifier
+Source.cpp(669): error C3861: 'havoc': identifier not found
+Source.cpp(670): error C2065: 'lstar': undeclared identifier
+Source.cpp(670): error C3861: 'lstar': identifier not found
+Source.cpp(671): error C2065: 'prowler': undeclared identifier
+Source.cpp(671): error C3861: 'prowler': identifier not found
+Source.cpp(672): error C2065: 'r99': undeclared identifier
+Source.cpp(672): error C3861: 'r99': identifier not found
+Source.cpp(673): error C2065: 'r301': undeclared identifier
+Source.cpp(673): error C3861: 'r301': identifier not found
+Source.cpp(674): error C2065: 'spitfire': undeclared identifier
+Source.cpp(674): error C3861: 'spitfire': identifier not found
+Source.cpp(675): error C2065: 're45': undeclared identifier
+Source.cpp(675): error C3861: 're45': identifier not found
+Source.cpp(676): error C2065: 'devotion': undeclared identifier
+Source.cpp(676): error C3861: 'devotion': identifier not found
+Source.cpp(677): error C2065: 'radius': undeclared identifier
+Source.cpp(677): error C3861: 'radius': identifier not found
+Source.cpp(686): error C2872: 'Mat': ambiguous symbol
+  Source.cpp(549): note: could be 'int Mat'
+  C:\opencv\build\include\opencv2/core/mat.hpp(805): note: or       'cv::Mat'
+Source.cpp(686): error C2146: syntax error: missing ';' before identifier 'H_hemlok'
+Source.cpp(686): error C2065: 'H_hemlok': undeclared identifier
+Source.cpp(686): error C2065: 'H_alternator': undeclared identifier
+Source.cpp(686): error C2065: 'H_flatline': undeclared identifier
+Source.cpp(686): error C2065: 'H_havoc': undeclared identifier
+Source.cpp(686): error C2065: 'H_lstar': undeclared identifier
+Source.cpp(686): error C2065: 'H_prowler': undeclared identifier
+Source.cpp(686): error C2065: 'H_r99': undeclared identifier
+Source.cpp(686): error C2065: 'H_r301': undeclared identifier
+Source.cpp(686): error C2065: 'H_spitfire': undeclared identifier
+Source.cpp(686): error C2065: 'H_re45': undeclared identifier
+Source.cpp(686): error C2065: 'H_devotion': undeclared identifier
+Source.cpp(686): error C2065: 'H_radius': undeclared identifier
+Source.cpp(688): error C2065: 'hemlok': undeclared identifier
+Source.cpp(689): error C2065: 'H_hemlok': undeclared identifier
+Source.cpp(689): error C2228: left of '.create' must have class/struct/union
+  Source.cpp(689): note: type is 'unknown-type'
+Source.cpp(691): error C2065: 'H_hemlok': undeclared identifier
+Source.cpp(691): error C2228: left of '.at' must have class/struct/union
+  Source.cpp(691): note: type is 'unknown-type'
+Source.cpp(691): error C2062: type 'float' unexpected
+Source.cpp(693): error C2065: 'alternator': undeclared identifier
+Source.cpp(694): error C2065: 'H_alternator': undeclared identifier
+Source.cpp(694): error C2228: left of '.create' must have class/struct/union
+  Source.cpp(694): note: type is 'unknown-type'
+Source.cpp(696): error C2065: 'H_alternator': undeclared identifier
+Source.cpp(696): error C2228: left of '.at' must have class/struct/union
+  Source.cpp(696): note: type is 'unknown-type'
+Source.cpp(696): error C2062: type 'float' unexpected
+Source.cpp(698): error C2065: 'flatline': undeclared identifier
+Source.cpp(699): error C2065: 'H_flatline': undeclared identifier
+Source.cpp(699): error C2228: left of '.create' must have class/struct/union
+  Source.cpp(699): note: type is 'unknown-type'
+Source.cpp(701): error C2065: 'H_flatline': undeclared identifier
+Source.cpp(701): fatal error C1003: error count exceeds 100; stopping compilation
